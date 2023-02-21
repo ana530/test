@@ -1,6 +1,6 @@
 {
-  "name": "ana5377",
-  "version": "0.1.1",
+  "name": "@ana5377/test-package",
+  "version": "0.1.2",
   "main": "dist/index.js",
   "files":["dist/index.js"],
   "dependencies": {
