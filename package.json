@@ -1,6 +1,8 @@
 {
   "name": "npm-test",
   "version": "0.1.0",
+  "main": "index.js",
+  "files":["index.js"],
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
